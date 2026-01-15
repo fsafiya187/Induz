@@ -22,7 +22,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, this project focuses on **cor
 
 ## 🖼 Demo  
 
-👉 **Live Demo:** [Click Here](#)
+👉 **Live Demo:** [Click Here](https://fsafiya187.github.io/Induz/)
 
 ---
 
